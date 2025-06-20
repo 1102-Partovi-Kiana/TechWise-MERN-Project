@@ -46,3 +46,7 @@ cd client
 npm install
 npm start
 ```
+
+---
+
+Built with ❤️ for TechWise.
