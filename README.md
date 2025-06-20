@@ -48,5 +48,10 @@ npm start
 ```
 
 ---
+### Demo
+
+https://github.com/user-attachments/assets/4e04c9b1-14e6-4932-b130-7e59b2f53bdd
+
+---
 
 Built with ❤️ for TechWise.
