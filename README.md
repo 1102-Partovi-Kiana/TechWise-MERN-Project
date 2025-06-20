@@ -19,6 +19,10 @@ The **MERN** acronym indicates this project was built utilizing **MongoDB**, **E
 - **Level 4 – UX Polish**  
   Inline validation, disabling form during requests, loading indicators, and descriptive error messages.
 
+- **Bonus**  
+  Using global state through Context API.
+
+
 ---
 
 ## How to Run
